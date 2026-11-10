@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Download the app
+    url: https://apps.apple.com/app/id6812456607
+    about: Weathervane is only available from the App Store. This repository has no download.
+  - name: Documentation
+    url: https://github.com/leechsoftware/weathervane#documentation
+    about: Setup, supported hardware, alerts, and common questions.

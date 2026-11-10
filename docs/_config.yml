@@ -1,0 +1,11 @@
+title: Weathervane
+description: Documentation for Weathervane, the dashboard for Ecowitt weather stations on iPhone, iPad and Apple Watch. The app is on the App Store; this site has no download.
+url: https://leechsoftware.github.io
+baseurl: /weathervane
+logo: /images/icon.png
+theme: jekyll-theme-cayman
+show_downloads: false
+lang: en
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
